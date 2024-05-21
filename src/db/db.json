@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Homer Daniel",
+        "phone": "344.256.3073",
+        "email": "Katarina.Schultz77@gmail.com",
+        "job": "Future Communications Consultant"
+    },
+    {
+        "name": "Rick Tillman",
+        "phone": "691.930.4417 x188",
+        "email": "Bernardo_Jacobson30@hotmail.com",
+        "job": "Human Configuration Designer"
+    },
+    {
+        "name": "Roderick Friesen",
+        "phone": "1-833-543-8172 x5478",
+        "email": "Conrad_Halvorson@yahoo.com",
+        "job": "Regional Interactions Manager"
+    },
+    {
+        "name": "Vivian Keebler",
+        "phone": "(883) 248-6029 x26570",
+        "email": "Fredrick_Wintheiser24@hotmail.com",
+        "job": "Investor Operations Coordinator"
+    },
+    {
+        "name": "Sharon Franecki-Hermiston",
+        "phone": "(384) 346-0788 x1755",
+        "email": "Hillary.Quigley77@gmail.com",
+        "job": "Human Branding Liaison"
+    }
+]
